@@ -143,8 +143,8 @@ media
 static
 
 # test files
-conftest.py
-test_main.py
+conftest
+test_main
 
 # json file
-urls.json
+.json
